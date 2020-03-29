@@ -1,3 +1,3 @@
-# Neural-Networks-and-Deep-Learning
+# Deep Learning Specialization
 
-Project work for Neural-Networks-and-Deep-Learning (Coursera: Deep Learning Specialization offered by deeplearning.ai).
+Project work for Coursera: Deep Learning Specialization offered by deeplearning.ai.
